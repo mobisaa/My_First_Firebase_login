@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Firebase Login</string>
+    <string name="title">  Log In</string>
+    <string name="signout">Sign Out</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="btnlogin">Log In</string>
+    <string name="btnregister">Register</string>
+    <string name="linkregister">Click here to Sign Up!</string>
+    <string name="linklogin">Click here to Sign In!</string>
+    <string name="timeline">Welcome To My First Login App!</string>
+    <string name="namereg">Enter Full Name</string>
+    <string name="emailreg">Enter Email</string>
+    <string name="passwordreg">Enter password</string>
+</resources>
